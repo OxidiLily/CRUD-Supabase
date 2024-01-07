@@ -26,7 +26,6 @@ def update():
         st.dataframe(data)
         
 
-        
     datalis = supabase.table('mahasiswa').select('*').execute().data
     
     col1,col2,col3= st.columns(3);
