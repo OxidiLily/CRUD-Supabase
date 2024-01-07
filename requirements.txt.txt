@@ -111,7 +111,6 @@ soupsieve                 ==2.5
 stack-data                ==0.6.3
 storage3                  ==0.7.0
 streamlit                 ==1.29.0
-streamlit-option-menu     ==0.3.6
 StrEnum                   ==0.4.15
 supabase                  ==2.3.1
 supafunc                  ==0.3.3
