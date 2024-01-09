@@ -4,7 +4,7 @@ from multipage import menu
 
 
 #Judul Page
-st.set_page_config(page_title='OxidiLily',layout='wide')
+st.set_page_config(page_title='CRUD Supabase - OxidiLily',layout='wide')
 hidden_menu = """
 <style>
 /* Hide Streamlit Branding */
