@@ -1,0 +1,1 @@
+CRUD Streamlit dan Supabase
